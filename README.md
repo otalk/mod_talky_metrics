@@ -33,6 +33,8 @@ talky_metrics = {
 
 Saves JSON blobs to a log file
 
+__Requires `lualogging` module__
+
 Configuration:
 
 ```
